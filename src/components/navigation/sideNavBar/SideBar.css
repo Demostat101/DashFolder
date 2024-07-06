@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.allLinks {
+
+    background-color: #e6e6e6b7;
+
+    padding-top: 2em;
+    width: 250px;
+    
+}
+
+.nav-link {
+    padding: 1em 0;
+}
